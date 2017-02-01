@@ -20,7 +20,7 @@ Traditionally the St. Brigid's Cross is made of rushes. Tools needed for creatio
 __@TODO:__ _Add step by step instructions plus some illustrations_
 
 This is the popular squared variant of Saint Brigid's Cross.
-<img src='img/saint_bridget_s_cross/squared_version-final.jpg' width='70%' />
+<img src='img/saint_brigid_s_cross/squared_version-final.jpg' width='70%' />
 
 An alternative variant is the triangular Saint Brigid's Cross.
 
