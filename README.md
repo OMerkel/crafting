@@ -1,5 +1,5 @@
 # Crafting
-Stuff to DIY
+Some DIY crafting instructions
 
 # Abstract
 
