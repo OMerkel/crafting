@@ -13,7 +13,31 @@ Mind no warranties are given. The license may not give you all of the permission
 
 ## Saint Bridget's Cross
 
-...
+Traditionally the St. Bridget's Cross is made of rushes. Tools needed for creation are a knife or a scissor only. Ignore the tin whistles on the picture shown. You won't believe it but these are definitively not needed here. To avoid scratches on the table you could decide to use a place mat, too.
+
+<img src='img/saint_bridget_s_cross/material_and_tools.jpg' width='70%' />
+
+__@TODO:__ _Add step by step instructions plus some illustrations_
+
+This is the popular squared variant of Saint Bridget's Cross.
+<img src='img/saint_bridget_s_cross/squared_version-final.jpg' width='70%' />
+
+An alternative variant is the triangular Saint Bridget's Cross.
+
+__@TODO:__ _Describe difference towards squared variant. Add step by step instructions plus some illustrations_
+
+<img src='img/saint_bridget_s_cross/triangular_version-final.jpg' width='70%' />
+
+Braiding and weaving the fishermen's variant of the Saint Bridget's Cross.
+
+__@TODO:__ _Give hints on how to create this, too._
+
+<img src='img/saint_bridget_s_cross/fishermen_s_version-final.jpg' width='70%' />
+
+Enjoy...
+
+<img src='img/saint_bridget_s_cross/different_versions-final.jpg' width='70%' />
+
 
 ### Contributors / Authors
 
